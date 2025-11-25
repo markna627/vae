@@ -38,7 +38,7 @@ Available Arguments:
 ![Training/Validatation Loss](/assets/interpolation.png)
 
 ### Notes 
-Colab demo is available:
-[Here](https://colab.research.google.com/drive/1BywK8P9n4dc02KBK_xsI7k1_YT2fkqUC?usp=sharing)
+For more details on math derivations and plots, Colab demo is available:
+[Here]([https://colab.research.google.com/drive/1BywK8P9n4dc02KBK_xsI7k1_YT2fkqUC?usp=sharing](https://colab.research.google.com/drive/1_Sl0E3sJ-mHugb1ABR0OmY8Q-NuFctUl?usp=sharing))
 
 
