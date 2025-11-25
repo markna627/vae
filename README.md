@@ -18,16 +18,6 @@ cd vae
 python3 train.py
 ```
 
-Available Arguments:
-```
---layers   (int) the number of encoder/decoder stacks
---heads    (int) the number of heads in the multi-head attention
---epochs   (int) the number of epochs
-```
-
-
-
-
 
 ### Example:
 
